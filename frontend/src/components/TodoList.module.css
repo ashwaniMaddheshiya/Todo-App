@@ -1,0 +1,13 @@
+.items{
+    margin: 5px 0;
+}
+
+.ul{
+    margin-top: 1.5rem;
+    padding-inline-start: 0;
+}
+
+.noData{
+    margin-top: 1rem;
+    text-align: center;
+}

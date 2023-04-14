@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.task{
+    margin: 0 1.5rem;
+    overflow-wrap: anywhere;
+}
+
+.strike{
+    text-decoration: line-through;
+}
